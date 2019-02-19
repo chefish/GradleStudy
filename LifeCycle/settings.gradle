@@ -1,0 +1,4 @@
+println 'setting.gradle execute begin...'
+
+include ':app', ':mylibrary'
+println 'setting.gradle execute finish...'
